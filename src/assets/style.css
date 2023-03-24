@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  min-height: 100px;
+  background-color: rgb(67, 67, 234);
+  color: white;
+  text-align: center;
+}
+
+.header h2 {
+  padding-top: 10px;
+}
+
+.context {
+  min-height: 100px;
+  background-color:rgb(234, 190, 107);
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  background-color:aqua;
+  min-height: 50px;
+}

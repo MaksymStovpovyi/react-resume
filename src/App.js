@@ -1,6 +1,10 @@
+import React from "react";
+import PortfolioContainer from "./components/PortfolioContainer";
+
+
 function App() {
   return (
-    <h1>Start</h1>
+    <PortfolioContainer/>
   );
 }
 
