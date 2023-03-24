@@ -4,24 +4,31 @@
 }
 
 .header {
+  display: flex;
   min-height: 100px;
   background-color: rgb(67, 67, 234);
   color: white;
-  text-align: center;
+  align-items: center;
+  justify-content: space-between;
 }
 
-.header h2 {
-  padding-top: 10px;
+.header .header-text {
+  margin-left: 5%;
 }
 
-.context {
-  min-height: 100px;
-  background-color:rgb(234, 190, 107);
-  text-align: center;
+.header ul {
+  position: relative;
+  right: 50px;
+  display: flex;
+  margin-left: 55px;
+  list-style: none;
+  font-size: 30px;
+}
+.header ul li {
+  margin-right: 40px;
 }
 
-.footer {
-  text-align: center;
-  background-color:aqua;
-  min-height: 50px;
+.header ul li a {
+  text-decoration: none;
+  color: white;
 }
