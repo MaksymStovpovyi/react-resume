@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
 }
-
+/* header */
 .header {
   display: flex;
   min-height: 100px;
@@ -33,10 +33,11 @@
   color: white;
 }
 
+/* about me */
+
 .wrapper {
   min-height: 100%;
   position: relative;
-  
 }
 
 .container-about {
@@ -61,3 +62,84 @@
   min-height: 50px;
   background-color: rgb(67, 67, 234);
 }
+
+/* portfolio */
+
+.container-portfolio {
+  margin: 0 auto;
+  width: 70%;
+}
+
+.box-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.box {
+  display: flex;
+  height: 300px;
+  width: 400px;
+  margin: 35px;
+  border-radius: 25px;
+  border: 3px solid  rgb(67, 67, 234);
+  justify-content: center;
+  align-items:center;
+}
+
+.box:hover > .box-git{
+  opacity: 1;
+  transition: 1s;
+}
+
+.box-git {
+  position: absolute;
+  display: flex;
+  height: 200px;
+  width: 200px;
+  background-color: rgb(67, 67, 234);
+  border-radius: 100%;
+  border: 2px solid white;
+  justify-content: center;
+  align-items:center;
+  opacity: 0;
+  transition: 1s;
+  font-size: 30px;
+
+}
+
+.box-git span {
+  color: white;
+  font-weight: bolder;
+}
+
+.box-git a {
+  text-decoration: none;
+}
+
+.box_1 {
+  background: url("./img/travel-app.png") center / cover no-repeat;
+}
+.box_2 {
+  background: url("./img/project2.png") center / cover no-repeat;
+}
+
+.box_text_wrapper {
+  position: relative;
+  right: 100px;
+  top: 70px;
+  height: 50px;
+  width: 200px;
+  background-color:white;
+  border: 3px solid rgb(67, 67, 234);
+  text-align: center;
+  justify-content: center;
+  border-radius: 0 25px 25px 0;
+}
+
+.box_text {
+  color: rgb(67, 67, 234);
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+
