@@ -56,6 +56,10 @@
   font-size: 25px;
 }
 
+.container-about p:last-of-type {
+  margin-bottom: 70px;
+}
+
 /* footer */
 
 .footer {
@@ -146,6 +150,10 @@
   background: url("./img/project2.png") center / cover no-repeat;
 }
 
+.box:last-of-type {
+  margin-bottom: 70px;
+}
+
 .box_text_wrapper {
   position: relative;
   right: 100px;
@@ -198,6 +206,7 @@
   margin-top: 25px;
   height: 40px;
   width:  100px;
+  margin-bottom: 70px;
 }
 
 /* resume  */
@@ -230,4 +239,8 @@
   margin-top: 25px;
   margin-left: 35px;
   font-size: 22px;
+}
+
+.container-portfolio ul:last-of-type {
+  margin-bottom: 70px;
 }
