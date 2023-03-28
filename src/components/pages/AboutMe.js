@@ -10,7 +10,7 @@ export default function AboutMe() {
         <p>
           Hello! My name is Max, and I am a passionate web developer with a strong focus on JavaScript.
       
-          My journey as a web developer started 1 years ago when I discovered my love for coding. Since then, I've been constantly improving my skills and learning new technologies. My expertise lies in building complex web applications using modern front-end framework like React.js.
+          My journey as a web developer started 1 year ago when I discovered my love for coding. Since then, I've been constantly improving my skills and learning new technologies. My expertise lies in building complex web applications using modern front-end framework like React.js.
         </p>
         
         <p>
