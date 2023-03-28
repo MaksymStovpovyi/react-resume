@@ -8,7 +8,7 @@ export default function Resume() {
         <h2 className='title'>Resume</h2>
 
         <div className='download'>
-          <DownloadLink url="./123.pdf"/>
+          <DownloadLink fileUrl="/resume.pdf" fileName="resume.pdf" />
         </div>
 
         <h3>Front-end Proficiencies</h3>

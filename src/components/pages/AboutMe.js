@@ -8,7 +8,7 @@ export default function AboutMe() {
         <h2 className='title'>About Me</h2>
 
         <p>
-          Hello! My name is Maksym Stovpovyi, and I am a passionate web developer with a strong focus on JavaScript.
+          Hello! My name is Max, and I am a passionate web developer with a strong focus on JavaScript.
       
           My journey as a web developer started 3 years ago when I discovered my love for coding. Since then, I've been constantly improving my skills and learning new technologies. My expertise lies in building complex web applications using modern front-end framework like React.js.
         </p>
@@ -31,9 +31,7 @@ export default function AboutMe() {
 
       </div>
 
-      <div className='footer'>
-        
-      </div>
+
     </div>
   );
 }

@@ -43,8 +43,6 @@
 .container-about {
   margin: 0 auto;
   width: 70%;
-  min-height: calc(100vh - 50px);
-
 }
 
 .title {
@@ -58,10 +56,34 @@
   font-size: 25px;
 }
 
+/* footer */
+
 .footer {
-  min-height: 50px;
+  display: flex;
+  position: fixed;
+  margin-top: 25px;
+  width: 100%;
+  bottom: 0;
+  min-height: 55px;
   background-color: rgb(67, 67, 234);
+  justify-content: center;
+  align-items: center;
 }
+
+.footer .git-ico {
+  height: 40px;
+  width: 40px;
+  margin: 0 10px 0 10px;
+  background: url("./img/git-ico.png") center / cover no-repeat;
+}
+
+.footer .linkedin-ico {
+  height: 40px;
+  width: 40px;
+  margin: 0 10px 0 10px;
+  background: url("./img/linkedin-ico.png") center / cover no-repeat;
+}
+  
 
 /* portfolio */
 
@@ -187,22 +209,25 @@
 
 .container-portfolio .download {
   margin-top: 25px;
+  font-size: 18px;
 }
 
-.container-portfolio .download:hover {
-  cursor: pointer;
+.container-portfolio .download a {
+  color: black;
+  text-decoration: none;
+}
+
+.container-portfolio .download a:hover {
   color: rgb(67, 67, 234);
 }
 
 .container-portfolio h3 {
   margin-top: 25px;
-}
-
-.container-portfolio ul {
-  margin-top: 25px;
+  font-size: 22px;
 }
 
 .container-portfolio ul {
   margin-top: 25px;
   margin-left: 35px;
+  font-size: 22px;
 }
