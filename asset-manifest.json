@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-resume/static/css/main.88e0feae.css",
-    "main.js": "/react-resume/static/js/main.632f7c1f.js",
+    "main.js": "/react-resume/static/js/main.96b51699.js",
     "static/media/project2.png": "/react-resume/static/media/project2.67f9a6122df8b8b22c5c.png",
     "static/media/travel-app.png": "/react-resume/static/media/travel-app.300187a99581a1263de4.png",
     "index.html": "/react-resume/index.html",
     "main.88e0feae.css.map": "/react-resume/static/css/main.88e0feae.css.map",
-    "main.632f7c1f.js.map": "/react-resume/static/js/main.632f7c1f.js.map"
+    "main.96b51699.js.map": "/react-resume/static/js/main.96b51699.js.map"
   },
   "entrypoints": [
     "static/css/main.88e0feae.css",
-    "static/js/main.632f7c1f.js"
+    "static/js/main.96b51699.js"
   ]
 }
