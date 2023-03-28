@@ -177,3 +177,32 @@
   height: 40px;
   width:  100px;
 }
+
+/* resume  */
+
+.container-resume {
+  margin: 0 auto;
+  width: 70%;
+}
+
+.container-portfolio .download {
+  margin-top: 25px;
+}
+
+.container-portfolio .download:hover {
+  cursor: pointer;
+  color: rgb(67, 67, 234);
+}
+
+.container-portfolio h3 {
+  margin-top: 25px;
+}
+
+.container-portfolio ul {
+  margin-top: 25px;
+}
+
+.container-portfolio ul {
+  margin-top: 25px;
+  margin-left: 35px;
+}
