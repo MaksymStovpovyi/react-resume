@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-resume/static/css/main.291057e8.css",
+    "main.js": "/react-resume/static/js/main.5fe214d2.js",
+    "static/media/project2.png": "/react-resume/static/media/project2.67f9a6122df8b8b22c5c.png",
+    "static/media/travel-app.png": "/react-resume/static/media/travel-app.300187a99581a1263de4.png",
+    "index.html": "/react-resume/index.html",
+    "main.291057e8.css.map": "/react-resume/static/css/main.291057e8.css.map",
+    "main.5fe214d2.js.map": "/react-resume/static/js/main.5fe214d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.291057e8.css",
+    "static/js/main.5fe214d2.js"
+  ]
+}
