@@ -3,7 +3,7 @@ import React from 'react';
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div className='header'>
-
+      
       <div className='header-text'>
         <h2>Maksym Stovpovyi</h2>
         <h2>Full Stack Web Developer</h2>

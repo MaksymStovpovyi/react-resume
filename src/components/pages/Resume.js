@@ -7,10 +7,6 @@ export default function Resume() {
       <div className='container-portfolio'>
         <h2 className='title'>Resume</h2>
 
-        <div className='download'>
-          <DownloadLink fileUrl="/resume.pdf" fileName="resume.pdf" />
-        </div>
-
         <h3>Front-end Proficiencies</h3>
           <ul>
             <li>HTML</li>
@@ -32,6 +28,14 @@ export default function Resume() {
             <li>REST</li>
             <li>GraphQL</li>
           </ul>
+
+
+          <h3>Education</h3>
+          <ul>
+            <li>University of Toronto</li>
+            <li>Full Stack Web Developer, UofT SCS Coding Boot Camp</li>
+          </ul>
+
 
       </div>
     </div>

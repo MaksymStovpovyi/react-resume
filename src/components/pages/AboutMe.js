@@ -8,30 +8,22 @@ export default function AboutMe() {
         <h2 className='title'>About Me</h2>
 
         <p>
-          Hello! My name is Max, and I am a passionate web developer with a strong focus on JavaScript.
-      
-          My journey as a web developer started 1 year ago when I discovered my love for coding. Since then, I've been constantly improving my skills and learning new technologies. My expertise lies in building complex web applications using modern front-end framework like React.js.
-        </p>
-        
-        <p>
-          I take pride in my ability to write clean, efficient, and maintainable code. I always strive to follow best practices and write code that is easy to read and understand. I believe that good code is not just about solving the problem at hand but also about making it easy to maintain and extend in the future.
-    
-          One of my strengths is my ability to work well in a team. I believe that good communication and collaboration are key to building successful projects. I am always ready to listen to feedback and share my ideas with others.
+          Hello there! My name is Maksym, and I am from Ukraine. I am a recent graduate of the University of Toronto's boot camp program, and I have a strong passion for web technologies. As a Junior Full Stack Web Developer, I am eager to begin my career and contribute to the exciting world of web development.
         </p>
 
         <p>
-          Apart from coding, I enjoy staying up-to-date with the latest trends and advancements in the web development industry. I am always looking for new challenges and opportunities to learn and grow.
-      
-          In my free time, I enjoy hiking and exploring the outdoors. I find that spending time in nature helps me to clear my mind and come up with new ideas.
+          Although I may not have extensive work experience, I possess a solid foundation of knowledge and skills gained through my academic studies and personal projects. I have a strong understanding of programming languages such as HTML, CSS, JavaScript, and jQuery, and I have experience working with web development frameworks such as React and Node.js.
         </p>
 
         <p>
-          Thank you for taking the time to learn more about me. I look forward to the opportunity to work with you and contribute to your team as a web developer.
+          I am a results-driven individual with a strong work ethic and an insatiable desire to learn and grow within the field. I am dedicated to delivering high-quality work that exceeds expectations, and I am constantly seeking out new challenges to improve my skills.
+        </p>
+
+        <p>
+          I am excited about the opportunities that lie ahead, and I am eager to contribute my skills and knowledge to help organizations achieve their goals. If you are looking for a motivated and talented Junior Full Stack Web Developer, I would be thrilled to hear from you.
         </p>
 
       </div>
-
-
     </div>
   );
 }

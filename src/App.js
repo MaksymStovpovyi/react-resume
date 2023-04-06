@@ -10,10 +10,10 @@ function App() {
       <PortfolioContainer/>
 
       <div className='footer'>
-        <a href="https://github.com/MaksymStovpovyi">
+        <a href="https://github.com/MaksymStovpovyi" target="_blank" rel="noreferrer">
           <div className='git-ico'></div>
         </a>
-        <a href="https://www.linkedin.com/in/maksym-stovpovyi-058747208/">
+        <a href="https://www.linkedin.com/in/maksymstovpovyi/" target="_blank" rel="noreferrer">
           <div className='linkedin-ico'></div>
         </a>
       </div>
