@@ -8,7 +8,7 @@ export default function AboutMe() {
         <h2 className='title'>About Me</h2>
 
         <p>
-          Hello there! My name is Maksym, and I am from Ukraine. I am a recent graduate of the University of Toronto's boot camp program, and I have a strong passion for web technologies. As a Junior Full Stack Web Developer, I am eager to begin my career and contribute to the exciting world of web development.
+          Hello there! My name is Max, and I am from Ukraine. I am a recent graduate of the University of Toronto's boot camp program, and I have a strong passion for web technologies. As a Junior Full Stack Web Developer, I am eager to begin my career and contribute to the exciting world of web development.
         </p>
 
         <p>
