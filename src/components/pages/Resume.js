@@ -1,5 +1,4 @@
 import React from 'react';
-import DownloadLink from "../downloadFile";
 
 export default function Resume() {
   return (
