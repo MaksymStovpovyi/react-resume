@@ -40,6 +40,22 @@ export default function Portfolio() {
               </div>
             </div>
 
+            {/* box_4 */}
+            <div className='box box_4'>
+              <div className="box_text_wrapper"> 
+                <div className="box_text">HTML / CSS / JS</div>
+              </div>
+              <div className='box-git'>
+                <a href="https://github.com/MaksymStovpovyi/04-code-quiz" target="_blank" rel="noopener noreferrer">
+                  <span>github</span>
+                </a>
+                <span>&nbsp;/&nbsp;</span>
+                <a href="https://maksymstovpovyi.github.io/04-code-quiz/" target="_blank" rel="noopener noreferrer">
+                  <span>site</span>
+                </a>
+              </div>
+            </div>
+
           </div>
         </div>
     </div> 

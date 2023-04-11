@@ -149,12 +149,12 @@
   background: url("./img/travel-app.png") center / cover no-repeat;
 }
 
-.box_2 {
-  background: url("./img/project2.png") center / cover no-repeat;
-}
-
 .box_3 {
   background: url("./img/project3.jpg") center / cover no-repeat;
+}
+
+.box_4 {
+  background: url("./img/code-quiz-img.png") center / cover no-repeat;
 }
 
 .box:last-of-type {
