@@ -1,12 +1,10 @@
-# React Resume
-
-# Social Network Api
+# Resume
 
 [Description](#description)---[License](#license)---[Questions](#questions)
 
 ## Description
 
-This site is my portfolio.
+This site is my portfolio. [Link](https://maksymstovpovyi.github.io/react-resume/)
 
 ## License
 
